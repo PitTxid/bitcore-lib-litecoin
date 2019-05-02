@@ -1,6 +1,6 @@
 {
-  "name": "litecore-lib",
-  "main": "./litecore-lib.min.js",
+  "name": "bitcore-lib-litecoin",
+  "main": "./bitcore-lib-litecoin.min.js",
   "version": "0.13.19",
   "homepage": "http://litecore.io",
   "authors": [
